@@ -1,0 +1,24 @@
+2026-09-15 20:28:38,959 - INFO - Application started
+2026-09-15 20:28:43,105 - DEBUG - User selected menu option: 1
+2026-09-15 20:29:33,629 - INFO - User logged in: amrutha
+2026-09-15 20:29:41,870 - DEBUG - User selected menu option: 2
+2026-09-15 20:29:41,870 - DEBUG - Calculation operation started
+2026-09-15 20:29:50,541 - INFO - Calculation completed: 50.0 + 5.0 = 55.0
+2026-09-15 20:29:55,118 - DEBUG - User selected menu option: 3
+2026-09-15 20:30:17,413 - DEBUG - Attempting to read file: sample.txt
+2026-09-15 20:30:17,413 - ERROR - File could not be opened because it does not exist: sample.txt
+2026-09-15 20:30:29,230 - DEBUG - User selected menu option: 3
+2026-09-15 20:30:57,347 - DEBUG - Attempting to read file: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:30:57,350 - WARNING - File was empty: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:31:02,574 - DEBUG - User selected menu option: 4
+2026-09-15 20:31:15,675 - DEBUG - Attempting to write file: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:31:15,676 - INFO - File written successfully: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:31:18,601 - DEBUG - User selected menu option: 3
+2026-09-15 20:31:24,981 - DEBUG - Attempting to read file: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:31:24,989 - INFO - File read successfully: D:\Projects\application_activity_logger\files\sample.txt
+2026-09-15 20:31:31,090 - DEBUG - User selected menu option: 5
+2026-09-15 20:31:31,091 - INFO - User logged out
+2026-09-15 20:31:35,613 - DEBUG - User selected menu option: 8
+2026-09-15 20:31:35,613 - WARNING - Invalid menu option entered: 8
+2026-09-15 20:31:40,653 - DEBUG - User selected menu option: 6
+2026-09-15 20:31:40,653 - INFO - Application closed normally
